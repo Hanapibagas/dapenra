@@ -1,0 +1,13 @@
+{
+  		"id_pegawai" : "1",
+        "nama_penerima" : "andri",
+        "jenis_manfaat" : "1",
+        "tempat_lahir" " "makassar",
+        "tanggal_lahir" : "1988-10-21",
+        "alamat" : "ini alamat",
+        "telepon" : "ini telepon",
+        "telepon_kerabat" : "ini telepon kerabat",
+        "password" : "inipaspor",
+        "dokumen" : "inidokumen",
+        "status" : "1"
+}
